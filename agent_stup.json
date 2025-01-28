@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "user_query": "good morning ",
+      "ai_response": "Good morning! How can I assist you today? Do you have a document you'd like me to help with?"
+    },
+    {
+      "user_query": "Well I do have a document, but I don't know how to share it to you",
+      "ai_response": "Good morning! How can I assist you today? Do you have a document you'd like me to help with?"
+    }
+  ]
+}
